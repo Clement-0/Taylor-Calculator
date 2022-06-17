@@ -168,7 +168,7 @@ double POW(double b, double x) {
 
 
 /**
- * Display functions
+ * Display functions for use with QT Creator
  */
 
 void Calculator::on_PI_clicked()
